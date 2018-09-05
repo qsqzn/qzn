@@ -1,7 +1,14 @@
 function sats()
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%2018.9.5
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 format long;
 userpath(pwd);
 curPath = pwd;
+
+%
 
 %…Ë÷√≥£ ˝
 [SceName, satCons, senCons, satChain, startTime, endTime, pStep, ship1, sat_list]=cons;
